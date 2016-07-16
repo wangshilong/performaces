@@ -1,0 +1,5 @@
+1.compile
+gcc benchmark_files.c -lpthread
+
+2.run
+./a.out -t <thread_numbers> -n <Number of threads>
